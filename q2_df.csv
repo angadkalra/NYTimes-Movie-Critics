@@ -1,0 +1,181 @@
+,movie_title,review_sentiment,critic_pick
+0,The Price of Everything,0.1148,False
+1,Minding the Gap,0.13,True
+2,"Juliet, Naked",0.08344,False
+3,Crazy Rich Asians,0.11774,False
+4,Custody,0.02328,True
+5,Sicario: Day of the Soldado,0.05438,False
+6,Hereditary,0.04572,True
+7,Adrift,0.08673,False
+8,American Animals,0.05865,False
+9,First Reformed,0.10284,True
+10,Book Club,0.1921,False
+11,Colossal,0.134,False
+12,Hidden Figures,0.1428,False
+13,Julieta,0.08673,False
+14,Fences,0.2102,True
+15,Neruda,0.0795,False
+16,Rogue One: A Star Wars Story,0.1577,False
+17,Lost and Beautiful,0.1613,True
+18,La La Land,0.1498,True
+19,Things to Come,0.0744,True
+20,Two Trains Runnin’,0.05328,True
+21,Lion,0.12274,False
+22,Allied,0.1533,True
+23,Moana,0.1865,False
+24,The Love Witch,0.1487,False
+25,Manchester By the Sea,0.03516,False
+26,The Illinois Parables,0.1219,False
+27,Elle,0.05643,True
+28,Billy Lynn’s Long Halftime Walk,0.11334,False
+29,The Eagle Huntress,0.1255,True
+30,Hacksaw Ridge,0.0709,False
+31,Fire at Sea,0.005177,True
+32,Moonlight,0.09845,True
+33,Aquarius,0.1571,True
+34,Certain Women,0.0931,False
+35,Voyage of Time,0.1145,False
+36,The Birth of a Nation,0.06335,False
+37,American Honey,0.02556,True
+38,Deepwater Horizon,0.1166,False
+39,Queen of Katwe,0.09814,True
+40,The Dressmaker,-0.0243,False
+41,Blair Witch,0.1089,False
+42,Snowden,0.1045,False
+43,Cameraperson,0.02444,True
+44,Author: The JT Leroy Story,0.0711,False
+45,Morris From America,0.1078,True
+46,"Lo and Behold, Reveries of the Connected World",0.1064,False
+47,A Tale of Love and Darkness,0.0844,False
+48,Sausage Party,0.1388,True
+49,Disorder,0.0891,False
+50,An Art That Nature Makes: The Work of Rosamond Purcell,0.2126,True
+51,Little Men,0.0833,True
+52,Neither Heaven Nor Earth,0.04706,False
+53,Suicide Squad,0.11053,False
+54,Equity,0.0709,True
+55,On the Silver Globe,0.09467,False
+56,Jason Bourne,0.04803,False
+57,Summertime,0.08484,False
+58,Star Trek Beyond,0.11255,False
+59,Café Society,0.1544,False
+60,Suspiria,0.0469,False
+61,Bad Times at the El Royale,0.0503,False
+62,22 July,0.03123,False
+63,A Star Is Born,0.1714,True
+64,All About Nina,0.06836,False
+65,Hold the Dark,-0.01045,False
+66,Colette,0.2043,True
+67,The Sisters Brothers,0.0268,True
+68,A Simple Favor,0.1107,False
+69,White Boy Rick,0.0306,False
+70,Hal,0.2053,False
+71,Let the Corpses Tan,0.08405,False
+72,Support the Girls,0.1246,True
+73,Papillon,0.06854,False
+74,Mission: Impossible - Fallout,0.1021,True
+75,The Equalizer 2,0.10443,False
+76,The Third Murder,0.1036,True
+77,Dark Money,0.04453,False
+78,Eighth Grade,0.10657,True
+79,Skyscraper,-0.01024,False
+80,Ant-Man and the Wasp,0.09906,False
+81,Leave No Trace,0.0615,True
+82,Three Identical Strangers,0.1383,True
+83,The King,0.0639,True
+84,Marlina the Murderer in Four Acts,0.09796,False
+85,Incredibles 2,0.1859,True
+86,"Westwood: Punk, Icon, Activist",0.09174,False
+87,Ocean's 8,0.1267,False
+88,Breath,0.10864,False
+89,Tully,0.1168,False
+90,Duck Butter,0.1208,False
+91,Disobedience,0.0972,False
+92,I Feel Pretty,0.1498,False
+93,Zama,0.1399,True
+94,Beirut,0.06805,False
+95,Lean on Pete,0.07404,True
+96,Blockers,0.0724,False
+97,Gemini,0.09515,False
+98,Isle of Dogs,0.1932,True
+99,Unsane,0.08264,False
+100,Tomb Raider,0.0996,False
+101,12 Days,0.04312,False
+102,The Death of Stalin,0.1001,True
+103,Thoroughbreds,0.08966,False
+104,Red Sparrow,0.0906,True
+105,Oh Lucy!,0.02164,True
+106,The Lodgers,-0.007076,False
+107,Annihilation,0.10046,False
+108,The Party,0.04822,False
+109,Golden Exits,0.11383,True
+110,Black Panther,0.1035,True
+111,24 Frames,0.1157,False
+112,Legend of the Mountain,0.2302,False
+113,12 Strong,0.101,False
+114,Small Town Crime,0.1647,False
+115,Lover for a Day,0.1445,False
+116,Vazante,0.04684,False
+117,Anatomy of a Male Ballet Dancer,0.1365,False
+118,All the Money in the World,0.1357,True
+119,Molly's Game,-0.002954,False
+120,Cezanne and I,0.09625,False
+121,The Zookeeper's Wife,0.0738,False
+122,Frantz,0.02815,True
+123,Apprentice,0.0677,True
+124,Donald Cried,0.02682,True
+125,Dying Laughing,-0.03117,False
+126,Punching Henry,-0.00985,False
+127,From Nowhere,0.07196,True
+128,Lovesong,0.1298,True
+129,In Dubious Battle,-0.02377,False
+130,Vince Giordano: There's a Future in the Past,0.1415,True
+131,"I, Daniel Blake",0.03488,True
+132,Passengers,0.10046,False
+133,Short Stay,0.05756,False
+134,The Brand New Testament,0.0374,True
+135,All We Had,0.1075,False
+136,One More Time With Feeling,0.002687,False
+137,Bobby Sands: 66 Days,-0.0167,False
+138,Miss Sloane,0.0896,False
+139,Rules Don’t Apply,0.0634,True
+140,The Edge of Seventeen,0.148,True
+141,Best Worst Thing That Ever Could Have Happened,0.1322,True
+142,Notes on Blindness,0.1178,True
+143,Lazy Eye,0.03912,False
+144,Peter and the Farm,0.0851,True
+145,Don’t Call Me Son,0.062,True
+146,Gimme Danger,0.1458,True
+147,Portrait of a Garden,0.215,False
+148,American Pastoral,-0.02376,False
+149,King Cobra,0.05624,False
+150,The Accountant,-0.07416,False
+151,Mascots,0.1611,False
+152,Being 17,0.1947,True
+153,Blue Jay,0.04044,False
+154,Girl Asleep,0.0794,False
+155,Denial,0.09326,False
+156,Chronic,-0.03165,True
+157,The Free World,-0.0,False
+158,Miss Stevens,0.1582,True
+159,Bridget Jones's Baby,0.11615,False
+160,Kicks,0.05527,True
+161,As I Open My Eyes,0.04114,True
+162,White Girl,0.0622,True
+163,The Light Between Oceans,0.1288,True
+164,Fatima,0.1144,True
+165,Kate Plays Christine,0.010056,False
+166,Spa Night,0.08813,True
+167,Ben-Hur,0.06226,False
+168,The Little Prince,0.0833,True
+169,Indignation,0.0759,True
+170,Hieronymus Bosch: Touched by the Devil,0.1847,False
+171,Don’t Think Twice,0.06726,True
+172,Quitters,-0.12085,False
+173,Equals,-0.002476,False
+174,The Infiltrator,0.01378,False
+175,Zero Days,0.07355,True
+176,Fathers and Daughters,-0.0083,False
+177,The Innocents,0.1037,True
+178,Microbe & Gasoline,0.04352,True
+179,Bang Gang: A Modern Love Story,0.12036,False
